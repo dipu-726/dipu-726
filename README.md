@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dipu-726
+- 👋 Hi, I’m Dipu.
 - 👀 I’m interested in Web Performace, Design Systems & FrontEnd Tooling.
-- 🌱 I’m currently learning React, Node etc.
+- 🌱 I’m currently learning React & Node.
 - 💞️ I’m looking to collaborate on opensource.
 - 📫 You can always reach out to me at dipusaha726@gmail.com
 
